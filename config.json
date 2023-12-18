@@ -1,0 +1,44 @@
+[
+    {
+        "titulo": "MIX BRUSCHETTAS",
+        "precio": "$8990",
+        "descripcion": "Descripcion mix bruschettas",
+        "foto": "https://www.gourmet.cl/wp-content/uploads/2016/09/Consome-Pollo-Web-570x458.jpg",
+        "categoria": "Entrada"
+    },
+    {
+        "titulo": "BURRATA CAPRESE",
+        "precio": "$8500",
+        "descripcion": "Burrata caprese descripcion",
+        "foto": "https://cappazaro.cl/wp-content/uploads/2021/08/PAPAS-RUSTICAS-PROVENZAL-1.png",
+        "categoria": "Entrada"
+    },
+    {
+        "titulo": "PROVOLETA ASADA CON RÚCULA Y JAMÓN SERRANO",
+        "precio": "$12990",
+        "descripcion": "Lomo Vetado es un Corte de forma rectangular y alargada. Posee grasa infiltrada lo que le proporciona muy buen sabor y jugosidad.",
+        "foto": "https://static.wixstatic.com/media/87ad09_3e067b85332a42e6b2d24c83aeb231ea~mv2.jpg/v1/crop/x_42,y_0,w_940,h_576/fill/w_620,h_380,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/LOMO-VETADO-CON-ENSALADA-1024x576.jpg",
+        "categoria": "Fondo"
+    },
+    {
+        "titulo": "ARANCINIS DE SETAS Y QUESO AZUL",
+        "precio": "$1000",
+        "descripcion": "Coca-Cola (también conocida comúnmente como Coca en muchos países hispanohablantes; en inglés también conocida como Coke) es una bebida azucarada gaseosa vendida a nivel mundial en tiendas, restaurantes y máquinas expendedoras en más de doscientos países o territorios.",
+        "foto": "https://jumbo.vtexassets.com/arquivos/ids/655908-450-450?width=450&height=450&aspect=true",
+        "categoria": "Bebestibles"
+    },
+    {
+        "titulo": "MOLLEJAS CON COLESLAW",
+        "precio": "$8000",
+        "descripcion": "Platillo frío elaborado con lechuga y pan tostado, aderezado con una mezcla de ajo, aceite de oliva, anchoas, huevo duro y queso parmesano.",
+        "foto": "https://www.gourmet.cl/wp-content/uploads/2016/09/Consome-Pollo-Web-570x458.jpg",
+        "categoria": "Ensaladas"
+    },
+    {
+        "titulo": "Creme brule",
+        "precio": "$3500",
+        "descripcion": "El postre francés por excelencia",
+        "foto": "https://static.wixstatic.com/media/857392_a7e345cb35c14ee8a8d65413ebdb9d48~mv2.jpg/v1/fill/w_1480,h_1374,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/857392_a7e345cb35c14ee8a8d65413ebdb9d48~mv2.jpg",
+        "categoria": "Postre"
+    }
+]

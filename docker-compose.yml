@@ -1,0 +1,11 @@
+version: '3.9'
+
+services:
+  casa-serrano-front:
+    image: casa-serrano-front:latest
+    container_name: casa-serrano-front
+    restart: always
+    ports:
+      - 3000:3000
+    environment:
+      - NODE_ENV=development
